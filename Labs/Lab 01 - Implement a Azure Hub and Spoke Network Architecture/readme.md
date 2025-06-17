@@ -102,7 +102,9 @@ This structure mimics a production-grade Azure network setup where:
 
 ---
 
-## Implementation
+## Implementation Video
+
+[![Watch the video](./Hub%20and%20Spoke%20Azure%20Network%20Image.png)](https://youtu.be/sLLuVe--P1E)
 
 ---
 
