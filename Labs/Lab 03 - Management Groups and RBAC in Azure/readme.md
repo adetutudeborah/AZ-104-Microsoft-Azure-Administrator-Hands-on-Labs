@@ -1,4 +1,4 @@
-# Lab 03 - Implementing Management Groups and RBAC in Azure
+# Lab 03 - Management Groups and RBAC in Azure
 
 ## Scenario
 
@@ -121,7 +121,7 @@ az account management-group delete --name az104-mg1
 
 ## Implementation Video
 
-[![Watch the video](./Implementing%20Management%20Groups%20and%20RBAC%20in%20Azure.png)](https://youtu.be/UHLLBb82HLQ)
+[![Watch the video](./Management%20Groups%20and%20RBAC%20in%20Azure.png)](https://youtu.be/Td0uCyyuoRI)
 
 ---
 

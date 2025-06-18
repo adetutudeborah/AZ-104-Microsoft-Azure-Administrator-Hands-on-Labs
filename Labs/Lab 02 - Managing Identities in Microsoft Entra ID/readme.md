@@ -123,7 +123,7 @@ In this task, you create a group account. Group accounts can include user accoun
 
 ## Implementation Video
 
-[![Watch the video](./Manage%20Microsoft%20Entra%20ID%20Identities%20Image.png)](https://youtu.be/F6Bj2hg4Pu8)
+[![Watch the video](./Manage%20Microsoft%20Entra%20ID%20Identities%20Image.png)](https://youtu.be/OTTYtgwyix0)
 
 ---
 

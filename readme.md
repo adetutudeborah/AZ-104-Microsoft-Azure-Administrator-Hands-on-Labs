@@ -25,8 +25,8 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 | Lab # | Title | Watch on YouTube |
 |-------|-------|-------------|
 | 01 | [Implement a Azure Hub and Spoke Network Architecture](./Labs/Lab%2001%20-%20Implement%20a%20Azure%20Hub%20and%20Spoke%20Network%20Architecture/) | [Watch Lab 01 ▶️](https://youtu.be/sLLuVe--P1E?si=aJ1vsGEyxwmq370j) |
-| 02 | [Manage Microsoft Entra ID Identities](./Labs/Lab%2002%20-%20Managing%20Identities%20in%20Microsoft%20Entra%20ID/) |[Watch Lab 02 ▶️](https://youtu.be/F6Bj2hg4Pu8?si=Xcrosrga_2kLk_it)|
-| 03 | [Implementing Management Groups and RBAC in Azure](./Labs/Lab%2003%20-%20Implementing%20Management%20Groups%20and%20RBAC%20in%20Azure/) |[Watch Lab 03 ▶️](https://youtu.be/UHLLBb82HLQ)|
+| 02 | [Manage Microsoft Entra ID Identities](./Labs/Lab%2002%20-%20Managing%20Identities%20in%20Microsoft%20Entra%20ID/) |[Watch Lab 02 ▶️](https://youtu.be/OTTYtgwyix0)|
+| 03 | [Implementing Management Groups and RBAC in Azure](./Labs/Lab%2003%20-%20Management%20Groups%20and%20RBAC%20in%20Azure/) |[Watch Lab 03 ▶️](https://youtu.be/Td0uCyyuoRI)|
 | 04 | [Coming soon]() |[Watch Lab 04 ▶️]()|
 
 > ✅ More labs will be added soon. Stay tuned!
