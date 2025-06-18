@@ -2,7 +2,7 @@
 
 ## Scenario
 
-Your organization is building a new lab environment for pre-production testing of apps and services. A few engineers are being hired to manage the lab environment, including the virtual machines. To allow the engineers to authenticate by using Microsoft Entra ID, you have been tasked with provisioning users and groups. To minimize administrative overhead, membership of the groups should be updated automatically based on job titles.
+Your organization is building a new lab environment for pre-production testing of apps and services. A few engineers are being hired to manage the lab environment, including the virtual machines. To allow the engineers to authenticate by using Microsoft Entra ID, you have been tasked with provisioning users and groups. To minimize administrative overhead, membership of the groups can be updated automatically based on job titles.
 
 
 ## Aim
@@ -12,9 +12,9 @@ The aim of this lab is to manage user and group identities in Microsoft Entra ID
 
 - Assign important user properties like job title and department
 
-- Set up security groups to control access
+- Create security groups to control access
 
-- Understand the difference between static and dynamic group membership
+- Assign owners and members
 
 
 ## Requirements
@@ -42,9 +42,6 @@ In this task, you will create and configure user accounts. User accounts will st
 
 1. Sign in to the Azure portal: https://portal.azure.com
 2. To proceed, select **Cancel** on the Welcome splash screen.
-
-> **Tip:** If you are new to Azure, search for and select **Quickstart Center**. Watch the *Getting started in the Azure portal* video.
-
 3. Search for and select **Microsoft Entra ID**.
 4. Select the **Overview** blade and then the **Manage tenants** tab.
 
@@ -59,8 +56,8 @@ In this task, you will create and configure user accounts. User accounts will st
 
 | Setting               | Value                   |
 |-----------------------|-------------------------|
-| User principal name   | az104-user1             |
-| Display name          | az104-user1             |
+| User principal name   | azureuser1             |
+| Display name          | azureuser1             |
 | Auto-generate password| ✅                      |
 | Account enabled       | ✅                      |
 | Job title             | IT Lab Administrator    |
@@ -77,8 +74,8 @@ In this task, you will create and configure user accounts. User accounts will st
 
 | Setting               | Value                                |
 |-----------------------|--------------------------------------|
-| Email                 | *your email address*                 |
-| Display name          | *your name*                          |
+| Email                 | *guest email address*                 |
+| Display name          | *guest name*                          |
 | Send invite message   | ✅                                   |
 | Message               | Welcome to Azure and our group project |
 | Job title             | IT Lab Administrator                 |
@@ -88,8 +85,6 @@ In this task, you will create and configure user accounts. User accounts will st
 - Select **Review + invite** > **Invite**
 - Confirm that the invited user was created
 
-> **Note:** It is unlikely you will be creating user accounts individually. Do you know how your organization plans to manage them?
-
 ---
 
 ## Task 2: Create Groups and Add Members
@@ -98,7 +93,7 @@ In this task, you create a group account. Group accounts can include user accoun
 
 ### Group Membership Types
 
-- **Static:** Manual member assignment
+- **Static:** Manual addition and removal and addition of members.
 - **Dynamic:** Auto-membership based on properties like job title
 
 ### Create a Group
@@ -118,24 +113,23 @@ In this task, you create a group account. Group accounts can include user accoun
 
 4. Select **No owners selected** > Add yourself as the owner
 5. Select **No members selected** > Add:
-   - `az104-user1`
+   - `azureuser1`
    - The external (guest) user you invited
 6. Select **Create**
 7. Refresh and verify group creation
 8. Review **Members** and **Owners** info
 
-> **Note:** Do you have a group management strategy for your organization?
-
 ---
 
 ## Implementation Video
 
-[![Watch the video](./Manage%20Microsoft%20Entra%20ID%20Identities%20Image.png)]()
+[![Watch the video](./Manage%20Microsoft%20Entra%20ID%20Identities%20Image.png)](https://youtu.be/F6Bj2hg4Pu8)
 
 ---
 
 ## Learn More 
-
+- [What is Microsoft Entra ID?](https://learn.microsoft.com/en-us/entra/fundamentals/whatis)
+- [Manage users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/)
 
 ---
 
