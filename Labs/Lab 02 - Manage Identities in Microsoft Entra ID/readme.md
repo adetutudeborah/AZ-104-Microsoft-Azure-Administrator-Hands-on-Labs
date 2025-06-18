@@ -1,4 +1,4 @@
-# Lab 02: Manage Microsoft Entra ID Identities
+# Lab 02: Manage Identities in Microsoft Entra ID
 
 ## Scenario
 
