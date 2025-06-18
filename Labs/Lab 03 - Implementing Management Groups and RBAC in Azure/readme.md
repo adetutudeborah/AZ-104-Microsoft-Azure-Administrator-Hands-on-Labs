@@ -1,4 +1,4 @@
-# Lab 03 - Manage Subscriptions and RBAC
+# Lab 03 - Implementing Management Groups and RBAC in Azure
 
 ## Scenario
 
