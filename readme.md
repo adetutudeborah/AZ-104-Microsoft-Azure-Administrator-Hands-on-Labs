@@ -37,7 +37,7 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 
 Watch the complete hands-on series on YouTube:
 
-🔗 [AZ-104 Microsoft Azure Administrator Hands-on Labs Playlist](https://youtu.be/F6Bj2hg4Pu8?si=z7wvfWivDyJxt7lC)
+🔗 [AZ-104 Microsoft Azure Administrator Hands-on Labs Playlist](https://www.youtube.com/playlist?list=PL8UhGQjS_KhGRmMD1PuD-25vCqHj5ey2q)
 
 Subscribe to get notified when new labs drop!
 
