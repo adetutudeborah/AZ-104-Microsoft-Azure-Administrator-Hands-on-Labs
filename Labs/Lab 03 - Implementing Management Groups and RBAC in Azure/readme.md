@@ -105,12 +105,12 @@ The aim of this lab is to implement Azure Role-Based Access Control (RBAC) and o
 
 If you are using your own subscription, delete the lab resources to avoid extra costs.
 
-### Azure Portal
-- Go to the **Resource group**
-- Click **Delete the resource group**
+### Using the Azure Portal
+- Go to the **management group**
+- Click **Delete the management group**
 - Confirm the name and click **Delete**
 
-### Azure PowerShell or Azure CLI
+### Using Azure PowerShell or Azure CLI
 ```powershell
 az account management-group delete --name az104-mg1
 ```
@@ -121,7 +121,7 @@ az account management-group delete --name az104-mg1
 
 ## Implementation Video
 
-[![Watch the video](./Implementing%20Management%20Groups%20and%20RBAC%20in%20Azure.png)]()
+[![Watch the video](./Implementing%20Management%20Groups%20and%20RBAC%20in%20Azure.png)](https://youtu.be/UHLLBb82HLQ)
 
 ---
 
