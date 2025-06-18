@@ -30,7 +30,7 @@ To complete this lab, you need:
 
 ## Architecture Diagram
 
-![Lab 01 - Architecture diagram](./Lab%2002%20-%20Architecture%20diagram.png)
+![Lab 02 - Architecture diagram](./Lab%2002%20-%20Architecture%20diagram.png)
 
 ---
 
