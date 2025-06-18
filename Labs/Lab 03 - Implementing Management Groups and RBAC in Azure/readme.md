@@ -125,7 +125,7 @@ az account management-group delete --name az104-mg1
 
 ---
 
-## Learn More with Self-Paced Training
+## Learn More 
 
 - **[Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)**
 - **[Create custom roles for Azure resources with RBAC](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles)**
