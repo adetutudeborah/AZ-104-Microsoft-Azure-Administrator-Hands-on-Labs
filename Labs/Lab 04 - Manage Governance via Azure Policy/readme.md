@@ -210,7 +210,7 @@ If you are using your own subscription, delete resources to avoid charges:
 
 ## Implementation Video
 
-[![Watch the video](./Manage%20Governance%20via%20Azure%20Policy%20Img.png)]()
+[![Watch the video](./Manage%20Governance%20via%20Azure%20Policy%20Img.png)](https://youtu.be/SSWOzlUl_iI)
 
 ---
 
