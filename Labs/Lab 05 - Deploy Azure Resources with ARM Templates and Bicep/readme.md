@@ -217,7 +217,7 @@ In this task, you will use a Bicep file to deploy a managed disk. Bicep is a dec
 
 ## Implementation Video
 
-[![Watch the video](./Deploy%20Azure%20Resources%20with%20ARM%20Templates%20and%20Bicep%20Image.png)]()
+[![Watch the video](./Deploy%20Azure%20Resources%20with%20ARM%20Templates%20and%20Bicep%20Image.png)](https://youtu.be/y7qmJ3mb2YU)
 
 ---
 
