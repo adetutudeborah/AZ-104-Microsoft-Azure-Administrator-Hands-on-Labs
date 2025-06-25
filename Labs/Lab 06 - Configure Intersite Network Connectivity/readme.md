@@ -240,13 +240,9 @@ az group delete --name az104-rg5
 
 ---
 
-## Extend Your Learning with Copilot
+## Implementation Video
 
-Try these prompts in **Copilot** (https://copilot.microsoft.com):
-
-- *How can I use Azure PowerShell or Azure CLI commands to add a virtual network peering between vnet1 and vnet2?*
-- *Create a table highlighting various Azure and 3rd party monitoring tools supported on Azure. Highlight when to use each tool.*
-- *When would I create a custom network route in Azure?*
+[![Watch the video](./Configure%20Intersite%20Network%20Connectivity%20Image.png)](https://youtu.be/KurJVawI4U4)
 
 ---
 

@@ -29,7 +29,7 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 | 03 | [Management Groups and RBAC in Azure](./Labs/Lab%2003%20-%20Management%20Groups%20and%20RBAC%20in%20Azure/) |[Watch Lab 03 ▶️](https://youtu.be/Td0uCyyuoRI)|
 | 04 | [Manage Governance via Azure Policy](./Labs/Lab%2004%20-%20Manage%20Governance%20via%20Azure%20Policy/) |[Watch Lab 04 ▶️](https://youtu.be/SSWOzlUl_iI)|
 | 05 | [Deploy Azure Resources with ARM Templates and Bicep](./Labs/Lab%2005%20-%20Deploy%20Azure%20Resources%20with%20ARM%20Templates%20and%20Bicep/) |[Watch Lab 05 ▶️](https://youtu.be/y7qmJ3mb2YU)|
-| 06 | [Configure Intersite Network Connectivity](./Labs/Lab%2006%20-%20Configure%20Intersite%20Network%20Connectivity/) |[Watch Lab 06 ▶️]()|
+| 06 | [Configure Intersite Network Connectivity](./Labs/Lab%2006%20-%20Configure%20Intersite%20Network%20Connectivity/) |[Watch Lab 06 ▶️](https://youtu.be/KurJVawI4U4)|
 | 07 | [Coming soon]() | [Watch Lab 07 ▶️]() |
 | 08 | [Coming soon]() | [Watch Lab 08 ▶️]() |
 | 09 | [Coming soon]() | [Watch Lab 09 ▶️]() |
