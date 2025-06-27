@@ -1,4 +1,4 @@
-# Lab 07 - Create and Configure Azure Storage Solutions
+# Lab 08 - Create and Configure Azure Storage Solutions
 
 ## Scenario
 
