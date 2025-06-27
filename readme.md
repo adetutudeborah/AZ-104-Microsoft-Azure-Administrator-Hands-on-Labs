@@ -31,7 +31,7 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 | 05 | [Deploy Azure Resources with ARM Templates and Bicep](./Labs/Lab%2005%20-%20Deploy%20Azure%20Resources%20with%20ARM%20Templates%20and%20Bicep/) |[Watch Lab 05 ▶️](https://youtu.be/y7qmJ3mb2YU)|
 | 06 | [Configure Intersite Network Connectivity](./Labs/Lab%2006%20-%20Configure%20Intersite%20Network%20Connectivity/) |[Watch Lab 06 ▶️](https://youtu.be/KurJVawI4U4)|
 | 07 | [Network Traffic Management with Azure Load Balancer and Application Gateway](./Labs/Lab%2007%20-%20Network%20Traffic%20Management%20with%20Azure%20Load%20Balancer%20and%20Application%20Gateway/) | [Watch Lab 07 ▶️](https://youtu.be/N0KuVt4JThI) |
-| 08 | [Coming soon]() | [Watch Lab 08 ▶️]() |
+| 08 | [Create and Configure Azure Storage Solutions](./Labs/Lab%2008%20-%20Create%20and%20Configure%20Azure%20Storage%20Solutions/) | [Watch Lab 08 ▶️]() |
 | 09 | [Coming soon]() | [Watch Lab 09 ▶️]() |
 | 10 | [Coming soon]() | [Watch Lab 10 ▶️]() |
 | 11 | [Coming soon]() | [Watch Lab 11 ▶️]() |
