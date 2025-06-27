@@ -235,7 +235,7 @@ In this task, you implement a Load Balancer in front of two Azure VMs.
 ---
 ## Implementation Video
 
-[![Watch the video](./Network%20Traffic%20Management%20with%20Azure%20Load%20Balancer%20and%20Application%20Gateway%20-%20Thumbnail.png)]()
+[![Watch the video](./Network%20Traffic%20Management%20with%20Azure%20Load%20Balancer%20and%20Application%20Gateway%20-%20Thumbnail.png)](https://youtu.be/N0KuVt4JThI)
 
 ---
 
