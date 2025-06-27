@@ -22,7 +22,7 @@ The aim of this lab is to manage Azure Storage by creating and configuring stora
 
 ## Architecture Diagram
 
-![Lab 08 - Architecture diagram](./Create%20and%20Configure%20Azure%20Storage%20Solutions%20Thumbmail.png)
+![Lab 08 - Architecture diagram](./Lab%2008%20-%20Architecture%20Diagram.png)
 
 ---
 
