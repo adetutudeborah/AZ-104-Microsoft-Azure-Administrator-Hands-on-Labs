@@ -244,7 +244,7 @@ If you're using your own subscription, delete resources to prevent charges.
 ## Implementation Video
 
 
-[![Watch the video](./Create%20and%20Configure%20Azure%20Storage%20Solutions%20Thumbmail.png)]()
+[![Watch the video](./Create%20and%20Configure%20Azure%20Storage%20Solutions%20Thumbmail.png)](https://youtu.be/DbXSH5aMJGw)
 
 ---
 
