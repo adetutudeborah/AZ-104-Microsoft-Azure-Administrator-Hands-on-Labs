@@ -262,7 +262,7 @@ az group delete --name az104-rg8
 
 ## Implementation Video
 
-[![Watch the video](./Deploy%20and%20Scale%20Azure%20Virtual%20Machines%20and%20Scale%20Sets.png)]()
+[![Watch the video](./Deploy%20and%20Scale%20Azure%20Virtual%20Machines%20and%20Scale%20Sets.png)](https://youtu.be/Of2chThRwPE)
 
 ---
 
