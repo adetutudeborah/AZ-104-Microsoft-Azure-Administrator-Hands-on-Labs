@@ -164,7 +164,7 @@ az group delete --name resourceGroupName
 ## Implementation Video
 
 
-[![Watch the video](./Lab%2010%20Thumbnail.png)]()
+[![Watch the video](./Lab%2010%20Thumbnail.png)](https://youtu.be/YtH_W93lvJA)
 
 ---
 
