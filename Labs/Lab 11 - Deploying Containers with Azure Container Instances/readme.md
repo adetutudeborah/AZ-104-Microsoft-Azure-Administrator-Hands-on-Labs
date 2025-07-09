@@ -107,7 +107,7 @@ If you are working with your own subscription, take a minute to delete the lab r
 ## Implementation Video
 
 
-[![Watch the video](./Deploying%20Containers%20with%20Azure%20Container%20Instances%20-%20Thumbnail.png)]()
+[![Watch the video](./Deploying%20Containers%20with%20Azure%20Container%20Instances%20-%20Thumbnail.png)](https://youtu.be/jzlS9zP7AlA)
 
 ---
 
