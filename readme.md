@@ -34,7 +34,7 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 | 08 | [Create and Configure Azure Storage Solutions](./Labs/Lab%2008%20-%20Create%20and%20Configure%20Azure%20Storage%20Solutions/) | [Watch Lab 08 ▶️](https://youtu.be/DbXSH5aMJGw) |
 | 09 | [Deploy and Scale Azure Virtual Machines and Scale Sets](./Labs/Lab%2009%20-%20Deploy%20and%20Scale%20Azure%20Virtual%20Machines%20and%20Scale%20Sets/) | [Watch Lab 09 ▶️](https://youtu.be/Of2chThRwPE) |
 | 10 | [Deploy and Manage Web Apps with Azure App Service](./Labs/Lab%2010%20-%20Deploy%20and%20Manage%20Web%20Apps%20with%20Azure%20App%20Service/) | [Watch Lab 10 ▶️](https://youtu.be/YtH_W93lvJA) |
-| 11 | [Coming soon]() | [Watch Lab 11 ▶️]() |
+| 11 | [Deploying Containers with Azure Container Instances](./Labs/Lab%2011%20-%20Deploying%20Containers%20with%20Azure%20Container%20Instances/) | [Watch Lab 11 ▶️]() |
 | 12 | [Coming soon]() | [Watch Lab 12 ▶️]() |
 | 13 | [Coming soon]() | [Watch Lab 13 ▶️]() |
 | 14 | [Coming soon]() | [Watch Lab 14 ▶️]() |
