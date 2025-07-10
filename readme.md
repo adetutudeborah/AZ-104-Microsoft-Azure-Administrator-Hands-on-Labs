@@ -35,7 +35,7 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 | 09 | [Deploy and Scale Azure Virtual Machines and Scale Sets](./Labs/Lab%2009%20-%20Deploy%20and%20Scale%20Azure%20Virtual%20Machines%20and%20Scale%20Sets/) | [Watch Lab 09 ▶️](https://youtu.be/Of2chThRwPE) |
 | 10 | [Deploy and Manage Web Apps with Azure App Service](./Labs/Lab%2010%20-%20Deploy%20and%20Manage%20Web%20Apps%20with%20Azure%20App%20Service/) | [Watch Lab 10 ▶️](https://youtu.be/YtH_W93lvJA) |
 | 11 | [Deploying Containers with Azure Container Instances](./Labs/Lab%2011%20-%20Deploying%20Containers%20with%20Azure%20Container%20Instances/) | [Watch Lab 11 ▶️](https://youtu.be/jzlS9zP7AlA) |
-| 12 | [Coming soon]() | [Watch Lab 12 ▶️]() |
+| 12 | [Deploy a Web App Using Azure Container Apps](./Labs/Lab%2012%20-%20Deploy%20a%20Web%20App%20Using%20Azure%20Container%20Apps/) | [Watch Lab 12 ▶️]() |
 | 13 | [Coming soon]() | [Watch Lab 13 ▶️]() |
 | 14 | [Coming soon]() | [Watch Lab 14 ▶️]() |
 
