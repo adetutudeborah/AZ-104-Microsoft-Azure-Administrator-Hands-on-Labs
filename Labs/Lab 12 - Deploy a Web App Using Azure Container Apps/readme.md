@@ -87,7 +87,7 @@ az group delete --name resourceGroupName
 ## Implementation Video
 
 
-[![Watch the video](./Deploy%20a%20Web%20App%20Using%20Azure%20Container%20Apps%20-%20Thumbnail.png)]()
+[![Watch the video](./Deploy%20a%20Web%20App%20Using%20Azure%20Container%20Apps%20-%20Thumbnail.png)](https://youtu.be/8WHZy8h_J68)
 
 ---
 
