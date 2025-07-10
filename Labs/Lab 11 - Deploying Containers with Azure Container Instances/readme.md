@@ -6,7 +6,7 @@ Your organization has a web application that runs on a virtual machine in your o
 
 ## Aim
 
-The aim of this lab is to to deploy and manage a containerized application using Azure Container Instances (ACI), a serverless container hosting platform in Azure.
+The aim of this lab is to deploy and manage a containerized application using Azure Container Instances (ACI), a serverless container hosting platform in Azure.
 
 
 ## What You Will Achieve by the End of the Lab
