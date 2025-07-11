@@ -17,7 +17,7 @@ The aim of this lab is to deploy a containerized web application using Azure Con
 
 ## Architecture Diagram
 
-![Lab 11 - Architecture diagram](./Lab%2012%20Architecture%20Diagram.png)
+![Lab 12 - Architecture diagram](./Lab%2012%20Architecture%20Diagram.png)
 
 
 ---
