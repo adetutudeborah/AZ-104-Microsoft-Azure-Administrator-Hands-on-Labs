@@ -213,7 +213,7 @@ To avoid incurring charges, delete the resource group:
 ## Implementation Video
 
 
-[![Watch the video](./Backup%20and%20Disaster%20Recovery%20for%20Azure%20Virtual%20Machines%20-%20Thumbnail.png)]()
+[![Watch the video](./Backup%20and%20Disaster%20Recovery%20for%20Azure%20Virtual%20Machines%20-%20Thumbnail.png)](https://youtu.be/ObKwteRSsFM)
 
 ---
 
