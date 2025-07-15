@@ -47,7 +47,7 @@ Use the following information to complete the custom deployment fields (leave al
 | Setting        | Value              |
 |----------------|--------------------|
 | Subscription   | Your Azure subscription |
-| Resource group | `az104-rg14` (select *Create new* if needed) |
+| Resource group | `az104-rg11` (select *Create new* if needed) |
 | Region         | East US            |
 | Username       | `localadmin`       |
 | Password       | Provide a complex password |
@@ -96,7 +96,7 @@ Send an email notification to the operations team when the alert is triggered.
 | Setting           | Value             |
 |------------------|-------------------|
 | Subscription      | Your subscription |
-| Resource group    | `az104-rg14`      |
+| Resource group    | `az104-rg11`      |
 | Region            | Global (default)  |
 | Action group name | `Alert the operations team` |
 | Display name      | `AlertOpsTeam`    |
@@ -171,7 +171,7 @@ Create a rule to suppress notifications during a maintenance window.
 
 | Setting           | Value                                     |
 |------------------|--------------------------------------------|
-| Resource group    | `az104-rg14`                              |
+| Resource group    | `az104-rg11`                              |
 | Rule name         | `Planned Maintenance`                     |
 | Description       | Suppress notifications during maintenance |
 
@@ -214,14 +214,14 @@ Remove-AzResourceGroup -Name az104-rg14
 ```
 - Azure CLI:
 ```bash
-az group delete --name az104-rg14
+az group delete --name az104-rg11
 ```
 
 ---
 
 ## Implementation Video
 
-[![Watch the video](./Implement%20monitoring%20in%20Azure%20using%20Azure%20Monitor%20-%20Thumbnail.png)]()
+[![Watch the video](./Implement%20monitoring%20in%20Azure%20using%20Azure%20Monitor%20-%20Thumbnail.png)](https://youtu.be/V3QTzNvwC6M)
 
 ---
 

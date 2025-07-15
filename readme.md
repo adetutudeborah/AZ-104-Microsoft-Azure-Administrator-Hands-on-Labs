@@ -37,15 +37,13 @@ Whether you are preparing for the AZ-104 exam or strengthening your cloud skills
 | 11 | [Deploying Containers with Azure Container Instances](./Labs/Lab%2011%20-%20Deploying%20Containers%20with%20Azure%20Container%20Instances/) | [Watch Lab 11 ▶️](https://youtu.be/jzlS9zP7AlA) |
 | 12 | [Deploy a Web App Using Azure Container Apps](./Labs/Lab%2012%20-%20Deploy%20a%20Web%20App%20Using%20Azure%20Container%20Apps/) | [Watch Lab 12 ▶️](https://youtu.be/8WHZy8h_J68) |
 | 13 | [Backup and Disaster Recovery for Azure Virtual Machines](./Labs/Lab%2013%20-%20Backup%20and%20Disaster%20Recovery%20for%20Azure%20Virtual%20Machines/) | [Watch Lab 13 ▶️](https://youtu.be/ObKwteRSsFM) |
-| 14 | [Implement Monitoring in Azure using Azure Monitor](./Labs/Lab%2014%20-%20Implement%20Monitoring%20in%20Azure%20using%20Azure%20Monitor/) | [Watch Lab 14 ▶️]() |
+| 14 | [Implement Monitoring in Azure using Azure Monitor](./Labs/Lab%2014%20-%20Implement%20Monitoring%20in%20Azure%20using%20Azure%20Monitor/) | [Watch Lab 14 ▶️](https://youtu.be/V3QTzNvwC6M) |
 
 ---
 
 ## ▶️ Watch the hands-on labs on my YouTube channel
 
 🔗 [AZ-104 Microsoft Azure Administrator Hands-on Labs Playlist](https://www.youtube.com/playlist?list=PL8UhGQjS_KhGRmMD1PuD-25vCqHj5ey2q)
-
-Subscribe to get notified when new labs drop!
 
 ---
 
